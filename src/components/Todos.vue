@@ -35,10 +35,7 @@ import Vue from 'vue'
 export default {
   data(){
     return {
-      todos: [{
-        name: 'Tache de test',
-        completed: false
-      }],
+      todos: [],
       oldTodo: '',
       newTodo: '',
       filter: 'all',

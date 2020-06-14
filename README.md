@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+<img src="images/todo.png" alt="result">
+
 ## Build Setup
 
 ``` bash
