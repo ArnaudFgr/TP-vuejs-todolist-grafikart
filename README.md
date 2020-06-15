@@ -2,7 +2,9 @@
 
 > A Vue.js project
 
-<img src="images/todo.png" alt="result">
+<a href="https://www.grafikart.fr/tutoriels/tp-todolist-818">TP - Todos Vue.js</a>
+
+<img src="images/todos.gif" alt="result">
 
 ## Build Setup
 
